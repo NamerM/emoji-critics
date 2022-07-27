@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/emoji-critics/static/css/main.f02a669e.css",
-    "main.js": "/emoji-critics/static/js/main.519aa977.js",
+    "main.js": "/emoji-critics/static/js/main.678351f4.js",
     "static/media/Roboto.woff": "/emoji-critics/static/media/Roboto.86cce4f1f03fa659b144.woff",
     "index.html": "/emoji-critics/index.html",
     "main.f02a669e.css.map": "/emoji-critics/static/css/main.f02a669e.css.map",
-    "main.519aa977.js.map": "/emoji-critics/static/js/main.519aa977.js.map"
+    "main.678351f4.js.map": "/emoji-critics/static/js/main.678351f4.js.map"
   },
   "entrypoints": [
     "static/css/main.f02a669e.css",
-    "static/js/main.519aa977.js"
+    "static/js/main.678351f4.js"
   ]
 }
