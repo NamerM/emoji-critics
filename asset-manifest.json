@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/emoji-critics/static/css/main.e0253f18.css",
+    "main.js": "/emoji-critics/static/js/main.2739281e.js",
+    "static/media/Roboto.woff": "/emoji-critics/static/media/Roboto.86cce4f1f03fa659b144.woff",
+    "index.html": "/emoji-critics/index.html",
+    "main.e0253f18.css.map": "/emoji-critics/static/css/main.e0253f18.css.map",
+    "main.2739281e.js.map": "/emoji-critics/static/js/main.2739281e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0253f18.css",
+    "static/js/main.2739281e.js"
+  ]
+}
